@@ -1,0 +1,40 @@
+{
+  "name": "free-Time",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com:wyoumans/free-time.git"
+  },
+  "engines": {
+    "node": ">= 0.10.x"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha ./test/*.test.* --require should --reporter spec --colors"
+  },
+  "dependencies": {
+    "cli-color": "^0.3.2",
+    "commander": "^2.3.0",
+    "mocha": "^1.21.5"
+  },
+  "devDependencies": {
+    "moment": "^2.8.3",
+    "should": "^4.0.4"
+  },
+  "description": "A tool to help you determine when you can call it a day",
+  "bugs": {
+    "url": "https://github.com/wyoumans/free-time/issues"
+  },
+  "homepage": "https://github.com/wyoumans/free-time",
+  "main": "free-time.js",
+  "keywords": [
+    "business",
+    "hours",
+    "left"
+  ],
+  "author": "wyoumans (https://github.com/wyoumans)",
+  "license": "MIT",
+  "preferGlobal": "true",
+  "bin": {
+    "free-time": "free-time.js"
+  }
+}

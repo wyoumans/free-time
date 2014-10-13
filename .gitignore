@@ -1,0 +1,28 @@
+# Mac Ignores
+:2e*
+._*
+*~
+.AppleDouble*
+.DS_*
+-.save
+.com.apple.timemachine*
+
+# Node Ignores
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+./.bin
+node_modules
+
+pids
+logs
+results
+
+npm-debug.log
+
+config/defaults.json
