@@ -1,4 +1,4 @@
-# When is can I take a break?
+# Free Time
 
 When can I start working on my side project?
 
@@ -72,4 +72,4 @@ Today at 6:09 PM
 
 ## License
 
-[MIT License](http://wy.mit-license.org/)  Copyright © 2014 William Youmans
+[MIT License](http://wy.mit-license.org/)  Copyright © 2016 William Youmans
