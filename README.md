@@ -54,9 +54,20 @@ $ ./free-time.js --help
 $ ./free-time.js --hours 7 --minutes 18
 
 Howdy!
-You will have completed 8 hours for the day at:
+You will have completed 8 hours for the day:
 
-Today at 4:55 PM
+ __________________
+< Today at 4:55 PM >
+ ------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
 
 ```
 
@@ -64,9 +75,20 @@ Today at 4:55 PM
 $ ./free-time.js -w --hours 34 --minutes 43
 
 Howdy!
-You will have completed 40 hours for the week at:
+You will have completed 40 hours for the week:
 
-Today at 6:09 PM
+ __________________
+< Today at 6:09 PM >
+ ------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
 
 ```
 
