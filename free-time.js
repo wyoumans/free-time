@@ -11,7 +11,7 @@ var calculate           = require('./lib').calculate
 
 (function() {
   program
-    .version('0.1.0')
+    .version('0.1.1')
     .option('-w, --week', 'Sets the period to 1 week. Default is 1 day')
     .option('-t, --total <n>', 'Total hours to be worked for the set period', parseInt)
     .option('-h, --hours <n>', 'Total hours completed for the set period', parseInt)
