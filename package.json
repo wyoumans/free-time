@@ -13,14 +13,14 @@
     "test": "./node_modules/.bin/mocha ./test/*.test.* --require should --reporter spec --colors"
   },
   "dependencies": {
-    "cli-color": "^1.1.0",
-    "commander": "^2.9.0",
-    "cowsay": "^1.1.1",
-    "moment": "^2.10.6"
+    "cli-color": "1.1.0",
+    "commander": "2.9.0",
+    "cowsay": "1.1.9",
+    "moment": "2.17.1"
   },
   "devDependencies": {
-    "mocha": "^2.3.3",
-    "should": "^7.1.0"
+    "mocha": "3.2.0",
+    "should": "11.1.2"
   },
   "description": "A tool to help you determine when you can call it a day",
   "bugs": {
