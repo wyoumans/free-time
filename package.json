@@ -6,8 +6,8 @@
     "url": "https://github.com:wyoumans/free-time.git"
   },
   "engines": {
-    "node": "~10.8.0",
-    "npm": "~6.2.0"
+    "node": "~8.12.0",
+    "npm": "~6.4.1"
   },
   "scripts": {
     "test": "./node_modules/.bin/mocha ./test/*.test.* --require should --reporter spec --colors"
