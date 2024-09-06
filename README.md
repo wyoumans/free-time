@@ -94,4 +94,4 @@ You will have completed 40 hours for the week:
 
 ## License
 
-[MIT License](http://wy.mit-license.org/) Copyright © 2013 - 2023 William Youmans
+[MIT License](http://wy.mit-license.org/) Copyright © 2013 - 2025 William Youmans
